@@ -1,0 +1,23 @@
+# Core data analysis
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+
+# Visualization
+matplotlib>=3.8
+seaborn>=0.13
+
+# Machine learning
+scikit-learn>=1.4
+xgboost>=2.0
+
+# SQL
+SQLAlchemy>=2.0
+
+# Notebooks
+jupyter>=1.0
+ipykernel>=6.29
+
+# Utilities and tests
+python-dotenv>=1.0
+pytest>=8.0
